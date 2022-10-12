@@ -68,6 +68,10 @@ h1 {
     font-size: 15px;
 }
 
+.clicked {
+    border: 5px solid red;
+}
+
 button:hover {
     background-color: hsl(212, 21%, 14%);
 }
